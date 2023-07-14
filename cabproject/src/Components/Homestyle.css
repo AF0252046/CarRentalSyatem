@@ -1,0 +1,22 @@
+.slide-content img{
+    width: 100%;
+    height: 500px;
+        
+}
+.slide-content{
+    width: 100%;
+    height: 500px;
+}
+.maincontent{
+    height: 1500px;
+}
+.rows1{
+    display: flex;
+}
+.col-3{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.rows2{
+    display: flex;
+}

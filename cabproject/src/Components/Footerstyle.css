@@ -1,0 +1,28 @@
+
+.rows{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+}
+.footer-col{
+    width: 25%;
+    padding: 0 10px;
+    padding-top: 30px;
+    color: white;
+}
+.contain{
+    background-color: black;
+    height: 300px;
+    clear: both;
+}
+li{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.Nav-footer-btn{
+    color: grey;
+    text-decoration: none;
+    font-size: 24px;
+}
